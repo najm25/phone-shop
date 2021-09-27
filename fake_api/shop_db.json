@@ -1,0 +1,5 @@
+{
+  "products":[
+         {"id":1,"label":"smart phone galaxy Samsung","brand":"SAMSUNG","price":780,"stock":18}
+  ]
+}
